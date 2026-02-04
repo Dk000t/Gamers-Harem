@@ -67,3 +67,7 @@ Questo progetto è rilasciato con la licenza Apache per regolamentare l'uso, la 
   <img src="Screen/6.png" alt="Immagine 6" width="273px">
   <img src="Screen/7.png" alt="Immagine 7" width="273px">
 </div>
+<br><br>
+Devs:
+- [Dk000t](https://github.com/Dk000t)
+- [MrHide](https://github.com/Atymia)
