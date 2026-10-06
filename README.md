@@ -1,71 +1,67 @@
 # Gamers'Harem
 
-Gamers'Harem è un sito web dedicato agli appassionati di videogiochi, offrendo una vasta gamma di giochi per diverse piattaforme come PC, PlayStation, Xbox e Nintendo. Gli utenti possono cercare, visualizzare dettagli e acquistare i loro giochi preferiti direttamente dal sito.
+Gamers'Harem is a website dedicated to video game enthusiasts, offering a wide range of games for various platforms such as PC, PlayStation, Xbox, and Nintendo. Users can search for, view details about, and purchase their favorite games directly from the site.
 
-Linguaggi e Tecnologie Utilizzati:
+Languages and Technologies Used:
 
     Server Side:
-        Flask: Framework web leggero per Python.
-        MongoDB: Database NoSQL utilizzato per la gestione degli utenti e delle informazioni sui giochi.
+        Flask: Lightweight web framework for Python.
+        MongoDB: NoSQL database used to manage user data and game information.
         Python
         Werkzeug
         PyMongo
 
     Client Side:
-        HTML, CSS, JavaScript: Utilizzati per la struttura, lo stile e l'interattività del sito.
-        Bootstrap: Framework CSS per la progettazione responsiva.
-        Jinja2: Motore di templating per Python, utilizzato con Flask per generare dinamicamente le pagine HTML.
+        HTML, CSS, JavaScript: Used for website structure, styling, and interactivity.
+        Bootstrap: CSS framework for responsive design.
+        Jinja2: Templating engine for Python, used alongside Flask to dynamically generate HTML pages.
 
-    Integrazione di Pagamenti:
-        PayPal API: Integrato per consentire agli utenti di acquistare i giochi in modo sicuro.
+    Payment Integration:
+        PayPal API: Integrated to allow users to securely purchase games.
 
     Service Worker:
-        Utilizzato per la registrazione di un Service Worker per abilitare la funzionalità di service worker e consentire l'accesso offline alle risorse del sito.
+        Used to register a Service Worker to enable offline functionality and caching of site resources.
 
-Funzionalità Principali:
+Main Features:
 
-    Registrazione e Login:
-        Gli utenti possono registrarsi, effettuare il login e gestire il proprio account.
+    Registration and Login:
+        Users can register, log in, and manage their profiles.
 
-    Ricerca e Navigazione:
-        Funzionalità di ricerca per trovare rapidamente i giochi desiderati.
-        Navigazione intuitiva tra diverse categorie di giochi.
+    Search and Navigation:
+        Search functionality to quickly find desired games.
+        Intuitive navigation across different game categories.
 
-    Dettagli e Acquisto:
-        Pagina dettagliata per ciascun gioco con informazioni complete.
-        Possibilità di acquistare tramite PayPal.
+    Details and Purchasing:
+        Detailed page for each game containing full information.
+        Ability to purchase using PayPal.
 
-    Pagamenti:
-       Pagamento sicuro tramite integrazione con il sistema di pagamento PayPal.
+    Payments:
+        Secure checkout via integration with the PayPal payment system.
 
-Questo repository è stato creato a scopo universitario e utilizza immagini delle copertine di videogiochi per scopi puramente illustrativi. Si prega di leggere attentamente le seguenti linee guida per garantire il rispetto dei diritti d'autore e l'uso appropriato delle risorse.
+This repository was created for academic purposes and uses video game cover images purely for illustrative aims. Please read the following guidelines carefully to ensure copyright compliance and proper resource usage.
 
-### Linee Guida:
+### Guidelines:
 
-1. **Scopo Illustrativo:** Le immagini delle copertine dei videogiochi sono utilizzate esclusivamente per descrivere il contenuto del progetto e non vengono sfruttate commercialmente. Il progetto si concentra su scopi accademici e non cerca di appropriarsi dei diritti d'autore associati alle immagini.
+1. **Illustrative Purpose:** Video game cover images are used solely to illustrate project content and are not exploited commercially. The project focuses strictly on academic objectives and does not claim ownership of copyrights associated with the images.
 
-2. **Non Implicazione di Affiliazione:** La presenza di immagini di copertine di videogiochi non implica alcuna affiliazione con i giochi specifici o le società di sviluppo. Questo progetto è indipendente e non è associato a nessun marchio o prodotto specifico.
+2. **No Affiliation Implied:** The inclusion of video game cover images does not imply any affiliation with specific games or development companies. This project is independent and is not associated with any specific brand or product.
 
-3. **Rispetto dei Diritti d'Autore:** Ci impegniamo a rispettare i diritti d'autore e a rimuovere immediatamente qualsiasi contenuto che violi le leggi sul copyright su richiesta. Se sei il detentore dei diritti di una delle immagini e desideri che vengano rimosse, contattaci e provvederemo prontamente.
+3. **Respect for Copyright:** We are committed to respecting copyright laws and will immediately remove any content that infringes upon copyright upon request. If you are the copyright holder of any of the images and wish to have them removed, please contact us and we will promptly comply.
 
-4. **Esclusione di Responsabilità:** Non rivendichiamo alcun diritto sulle immagini delle copertine dei videogiochi, che rimangono di proprietà dei rispettivi detentori dei diritti d'autore. L'uso di tali immagini è conforme alle leggi sul copyright e si limita a scopi educativi.
+4. **Disclaimer:** We do not claim any rights to the video game cover images, which remain the property of their respective copyright owners. The use of these images complies with copyright fair use principles and is limited to educational purposes.
 
-## Licenza
+## Screenshots
 
-Questo progetto è rilasciato con la licenza Apache per regolamentare l'uso, la modifica e la distribuzione del codice e delle risorse.
+![Image 1](Screen/1.png)
 
-## Immagini
+![Image 2](Screen/2.png)
 
-![Immagine 1](Screen/1.png)
-
-![Immagine 2](Screen/2.png)
-
-![Immagine 3](Screen/3.png)
+![Image 3](Screen/3.png)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="Screen/5.png" alt="Immagine 5" width="273px">
-  <img src="Screen/6.png" alt="Immagine 6" width="273px">
-  <img src="Screen/7.png" alt="Immagine 7" width="273px">
+  <img src="Screen/5.png" alt="Image 5" width="273px">
+  <img src="Screen/6.png" alt="Image 6" width="273px">
+  <img src="Screen/7.png" alt="Image 7" width="273px">
 </div>
 <br><br>
 
